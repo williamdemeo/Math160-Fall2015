@@ -16,7 +16,7 @@ Math 160: Survey of Calculus, Fall 2015
 	**Office Hours:** TBD  
 	**Recitation:** Tue (Sec 4) 8--8:50am Carver 0074; (Sec 8) 9--9:50am Beyer 2308.
 
-  + [John Herr](mailto:jherr@iastate.edu) (Sec 6)
+  + [John Herr](mailto:jherr@iastate.edu) (Sec 6)  
 	**Office:** Carver 410.  
 	**Office Hours:** TBD  
 	**Recitation:** Tue 12:10--1pm Carver 0282.
@@ -29,14 +29,11 @@ Math 160: Survey of Calculus, Fall 2015
 **WebAssign:** 
 (For login instructions, see the [Online Homework](#online-homework) section below.)
 
-**Math 160 Q&A Forum:** https://groups.google.com/d/forum/math160-spring2015
+**Math 160 Piazza page:** TBA
   
 **Remarks about office hours:**
 The regularly scheduled office hours listed above are subject to change.
-Changes will be announced during lecture. Office hours are the hours during
-which I make a point of being available in my office to answer questions.
-However, students are encouraged to stop by my office at anytime to see if I'm
-available. It is helpful (but not required) to
+Changes will be announced during lecture. It is helpful (but not required) to
 <a href="mailto:williamdemeo@gmail.com?subject=MATH 160:
 attending office hours&amp;body=Dear Dr. DeMeo, I plan to attend your office
 hours this week on (fill in day/time).  Sincerely, (your full name)">send me an email</a>
@@ -51,7 +48,7 @@ file in a GitHub repository called Math160-Fall2015).  If you don't know what
 the stuff in parentheses means, don't worry. It will be explained at our first
 class meeting. 
 
-The paragraphs below serve as the syllabus for Sections 9--14 of Math 160.
+The paragraphs below serve as the syllabus for Math 160 Sections 4, 6,8.
 
 *This page, as well as the content directory above, and its subdirectories, will
  be updated throughout the semester, and students are expected to visit this
@@ -72,9 +69,11 @@ please keep track of your grades and refer to the
 
 Class Meeting Times
 -------------------
-**Lecture:** MWF 10--11:50am Carver Room 101  
-**Recitations:** Tuesdays at 9am or 10am or 12pm (depending on your section)  
-
+**Lecture:** MWF 8--8:50am Carver Room 0001  
+**Recitation:** Tuesdays  
+- Sec 4: 8--8:50am Carver 0074.  
+- Sec 6: 12:10--1pm Carver 0282.  
+- Sec 8: 9--9:50am Beyer 2308.
 
 Overview, Prerequisites, Outcomes, Accessibility
 ------------------------------------------------
