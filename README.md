@@ -208,8 +208,8 @@ the date of the final exam.
 
 Quizzes
 -------
-There will be approximately 10 short quizzes administered
-roughly once per week in the recitation section. 
+There will be approximately 11 short quizzes administered
+roughly once per week during recitation.
 The lowest quiz score will be dropped and
 the remaining quizzes will account for 14% of
 the final course grade. 
@@ -220,7 +220,7 @@ Solving lots of problems is the best way to prepare yourself to do well on the
 tests and quizzes, and ultimately to do well in the course.
 
 The **online homework will account for 16% of the course grade** and will be
-assigned once per week.
+assigned once per week, typically due each Tuesday by midnight.
 
 All homework for this course will be done with [WebAssign][].
 You will enroll yourself in our course by going to the 
@@ -235,8 +235,7 @@ of the semester, also known as "dead week.")
 
 **Late homework will not be accepted or graded.**  
 
-There will be roughly 15 online homework assignments during the semester.
-The lowest homework score will not count toward your final course grade.
+The lowest homework score will be dropped not counted toward the final course grade.
 
 
 Handwritten Homework
