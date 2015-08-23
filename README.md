@@ -2,7 +2,7 @@ Math 160: Survey of Calculus, Fall 2015
 ========================================
 
 **Instructor:**  Dr. William DeMeo  
-**Email:** [williamdemeo@gmail.com](mailto:williamdemeo@gmail.com?subject=MATH
+**Email:** [williamdemeo at gmail](mailto:williamdemeo@gmail.com?subject=MATH
 160: (insert an informative subject))  
 **Office:** Carver 466.  
 **Office hours:** W 9--11am, F 9--10am.  
@@ -10,29 +10,25 @@ Math 160: Survey of Calculus, Fall 2015
 
 --------------------
 
-**Teaching Assistants:**
-
-  + [Mercedes Coleman](mailto:coleman1@iastate.edu) (Secs 4, 8)  
-	**Office:** TBD  
-	**Office Hours:** TBD  
-	**Recitation:** Tue (Sec 4) 8--8:50am Carver 0074; (Sec 8) 9--9:50am Beyer 2308.
-
-  + [John Herr](mailto:jherr@iastate.edu) (Sec 6)  
-	**Office:** Carver 410.  
-	**Office Hours:** TBD  
-	**Recitation:** Tue 12:10--1pm Carver 0282.
+**Teaching Assistant:** Mercedes Coleman  
+**Email:** [coleman1 at iastate](mailto:coleman1@iastate.edu?subject=MATH
+160: (insert an informative subject))  
+**Office:** TBD  
+**Office Hours:** TBD  
+**Recitations:**  
++ *Sec 4* T 8--8:50am Carver 0074.  
++ *Sec 6* T 12:10--1pm Carver 0282.  
++ *Sec 8* T 9--9:50am Beyer 2308.
 
 ----------------------
 
 **Course Webpage:** http://github.com/williamdemeo/Math160-Fall2015
 
-**WebAssign:** http://www.webassign.net  
+**WebAssign:** [www.webassign.net](http://www.webassign.net)  
+**WebAssign Class Key:** iastate 8774 8288  
 (For login instructions, see the [Online Homework](#online-homework) section below.)  
-**WebAssign Class Key:** iastate 8774 8288
 
-**Piazza**
-- [Piazza homepage for Math 160](https://piazza.com/iastate/fall2015/math160/home)
-- [Piazza signup page](https://piazza.com/iastate/fall2015/math160)
+**Piazza:** [https://piazza.com/iastate/fall2015/math160](https://piazza.com/iastate/fall2015/math160/home)
 
 **Number of Credits: 4**
 
