@@ -106,12 +106,12 @@ Overview, Prerequisites, Outcomes
 We will cover Chapters 1 through 6 of [the textbook](#textbook),
 which includes the following topics:
 
-1. Preliminaries (~3 lectures)  
-2. Functions, Limits, and the Derivative (~9 lectures)  
-3. Differentiation (~8 lectures)  
-4. Applications of the Derivative (~5 days)  
-5. Exponential and Logarithmic Functions (~6 days)  
-6. Integration (~11 days)  
+1. Preliminaries  
+2. Functions, Limits, and the Derivative  
+3. Differentiation  
+4. Applications of the Derivative  
+5. Exponential and Logarithmic Functions  
+6. Integration  
 
 **Prerequisites**  
 Satisfactory performance on placement exam, 2 years of high school algebra, 1
@@ -211,7 +211,7 @@ Quizzes
 There will be approximately 11 short quizzes administered
 roughly once per week during recitation.
 The lowest quiz score will be dropped and
-the remaining quizzes will account for 14% of
+the remaining quizzes will account for 15% of
 the final course grade. 
 
 Online Homework
@@ -219,7 +219,7 @@ Online Homework
 Solving lots of problems is the best way to prepare yourself to do well on the
 tests and quizzes, and ultimately to do well in the course.
 
-The **online homework will account for 16% of the course grade** and will be
+The **online homework will account for 15% of the course grade** and will be
 assigned once per week, typically due each Tuesday by midnight.
 
 All homework for this course will be done with [WebAssign][].
@@ -261,22 +261,20 @@ your course grade since the lowest quiz and homework scores will be dropped.
 
 Generally speaking, there are no make-up exams. However, 
 if you must miss an exam for one of the legitimate reasons listed below,
-then you must contact the professor at least a week before the exam date
-and if your excuse is approved, you can take a make-up exam *before* the
-scheduled exam time,
+and if you contact the professor at least five days before the exam date,
+then you might be able to take a make-up exam *before* the scheduled exam time.
 
-\noindent \textbf{Make-up Policies:} 
-A make-up on an exam will be given only for one of the following reasons.
-\begin{itemize}
-\itemsep-0.1em
-	\item A very well documented medical excuse.  A note from a doctor on a prescription pad is sufficient documentation as are hospital discharge papers.
-	\item A family emergency.
-	\item An official university function.
-	\item Military service.
-	\item  A conflict with another exam or if you have three or more final exams on a given day.  In each of these cases the exam with the fewest number of students must yield.
-\end{itemize}
+To request a make-up exam, a student must provide documented evidence of
+one of the following:
 
-
++ Medical excuse - student's own medical emergency (doctor's note required).
++ Medical excuse - a member of the student's family has a medical emergency (doctor's note required).
++ Extra curricular activities as a representative of Iowa State University (e.g., sponsored sports, band, etc.).
++ Armed forces deployment (military duty).
++ Officially mandated court appearances, including jury duty.
++ A conflict with another exam or if you have three or more final exams on a
+given day.  (In each of these cases the exam with the fewest number of students
+must make alternative accommodations.)
 
 If you miss a test due to some unforeseen circumstance, you must contact the 
 professor within one class meeting after the missed test and provide an
@@ -292,8 +290,8 @@ The breakdown of the final course grade is as follows:
 
 + Final exam: 25 points  
 + Mid-term exams: 45 points (15 each)  
-+ Homework: 16 points total  
-+ Quizzes/Recitation Grade: 14 points
++ Homework: 15 points total  
++ Quizzes/Recitation Grade: 15 points
 
 At the end of the semester, letter grades will be assigned roughly according to
 the following table. However, the scale may be shifted,
