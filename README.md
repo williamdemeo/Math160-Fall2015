@@ -208,8 +208,11 @@ the date of the final exam.
 
 Quizzes
 -------
-There will be approximately 8 quizzes administered in your recitation section.
-Your best 7 quiz scores will account for 14% of the final course grade.
+There will be approximately 10 short quizzes administered
+roughly once per week in the recitation section. 
+The lowest quiz score will be dropped and
+the remaining quizzes will account for 14% of
+the final course grade. 
 
 Online Homework
 ---------------
