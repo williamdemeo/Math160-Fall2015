@@ -135,14 +135,19 @@ had purchased a hard copy.
 
 **Which hard copy of the book should you buy?**
 
-It seems that some publishers produce new editions of textbooks
-that are only slightly different from previous editions.  One reason for this is
-so that students will have to buy new instead of used books.
-Students are welcomed to use older editions of the book, such as
-those available at online retailers like Amazon.
-For example, the contents of
-[the 9th edition](http://www.amazon.com/gp/offer-listing/1133607713/ref=dp_olp_used?ie=UTF8&condition=used)
-seem close to the edition that is stocked by the university bookstore.
+The goal of textbook publishers is naturally to sell as many new books as
+possible. This goal is more difficult than it used to be because students have
+unprecedented access to a massive online used textbook market. Many publishers
+counter this challenge by both producing new editions and raising prices at
+staggering rates.
+
+The edition that is stocked in the university bookstore is the official textbook
+for this course.  Unfortunately, it is very expensive.  However, students are
+free to use older editions of the book that may be found at online retailers
+like Amazon. For example,
+[the 9th edition](http://www.amazon.com/gp/product/1133607713/)
+is probably very similar in content to the edition that is stocked by the
+university bookstore.
 
 
 Exams
