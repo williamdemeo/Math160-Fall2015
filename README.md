@@ -31,7 +31,8 @@ Math 160: Survey of Calculus, Fall 2015
 
 **WebAssign Class Key:** iastate 8774 8288
 
-**Math 160 Piazza page:** TBA
+**Math 160 Piazza page:** https://piazza.com/iastate/fall2015/math160/home
+
   
 **Remarks about office hours:**
 The regularly scheduled office hours listed above are subject to change.
@@ -150,9 +151,8 @@ university bookstore.
 
 Exams
 -----
-There will be two midterm exams, and one final exam.
-**Each midterm is worth 20%, and the final exam is worth
-25% of the course grade.**
+There will be two midterm exams each worth 20%, and a final exam worth
+25% of the course grade.
 
 + **MIDTERM EXAM 1** on Chapters 1, 2 and part of 3.  
 **DATE:** TBA  
@@ -287,16 +287,22 @@ is over.
 Asking Questions
 ----------------
 When you don't understand something, please ask a question!
-The best time/place to do this is during lecture or
-recitation or office hours.
+The best time/place to do this is during lecture or recitation or office hours.
 
-The second best time/place to ask a question is on our [Piazza page][].
+Another great way to ask a question is by using our [Piazza page][].
+This term we will be using [Piazza][] for class discussion.
+The system is highly catered to getting you help fast and efficiently from
+classmates, the TA, and the professor. Rather than emailing questions to the
+teaching staff, students are encouraged to post questions on Piazza. If you have
+any problems or feedback for the Piazza developers, email [team@piazza.com](mailto:team@piazza.com). 
+
+Find our class Piazza page at: https://piazza.com/iastate/fall2015/math160/home
 
 Another way to ask a question is by using the "Ask my instructor" link on
-WebAssign. This method is most convenient for the instructor and TAs because
-details about the problem you're having trouble with are automatically embedded
+WebAssign. This method is convenient for the teaching staff because details
+about the problem you're asking about are automatically embedded 
 in your email.  *Please note:* if you use the "Ask my instructor" button, your
-question may be reposted on our Piazza forum (which is public).  If you're
+question may be reposted on our [Piazza][] forum (which is public).  If you're
 uncomfortable with this, please say so in your message.
 
 Email Policy
@@ -359,7 +365,7 @@ Resources Office for information on appropriate policies and procedures.
 Student Services Building, Room 1076  
 phone: 515-294-6624, or 515-294-7220, or TDD 294-6335  
 email: [disabilityresources@iastate.edu](mailto:disabilityresources@iastate.edu) or
-[accommodations@iastate.edu](mailto:accommodations@iastate.edu)).
+[accommodations@iastate.edu](mailto:accommodations@iastate.edu).
 
 You must obtain a Student Academic Accommodation Request (SAAR) from the Disability
 Resources office and you must contact your instructor early in the semester so
@@ -416,16 +422,16 @@ Detailed Course Objectives
 - Evaluate definite integrals by certain simple rules (substitution, integration by parts, etc.)
 
 
-
 Additional Resources
 --------------------
++ [Piazza][]
 + [WebAssign][]
-+ [Math 160 General Info](https://orion.math.iastate.edu/dept/calculus/)
-+ [Another General Info page](http://orion.math.iastate.edu/dept/CoursePages/160-6/)
 + [ISU Math Department](http://www.math.iastate.edu/)
 + [ISU Math Course Pages](http://www.math.iastate.edu/Directories/CoursePages.html)
-+ [Math 160 Exams from prior semesters](https://orion.math.iastate.edu/dept/calculus/exams/exams.html)
-  
++ [Math Stackexchange](http://math.stackexchange.com/)
+
+[Piazza]: https://piazza.com/iastate/fall2015/math160/home
+[Piazza page]: https://piazza.com/iastate/fall2015/math160/home
 [MyLabsPlus]: http://www.iastate.mylabsplus.com
 [MyLabsPlus website]: http://www.iastate.mylabsplus.com
 [WebAssign]: http://www.webassign.net
