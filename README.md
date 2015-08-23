@@ -4,10 +4,11 @@ Math 160: Survey of Calculus, Fall 2015
 **Instructor:**  Dr. William DeMeo  
 **Email:** [williamdemeo@gmail.com](mailto:williamdemeo@gmail.com?subject=MATH
 160: (insert an informative subject))  
-**Office:** Carver, Room 466.  
-**Office hours:** Wed 9--11am, Fri 9--10am.
+**Office:** Carver 466.  
+**Office hours:** W 9--11am, F 9--10am.  
+**Lecture time and location:** MWF 8--8:50am, Carver 0001.
 
-**Lecture time and location:** MWF 8--8:50am in Carver 0001.
+--------------------
 
 **Teaching Assistants:**
 
@@ -21,20 +22,22 @@ Math 160: Survey of Calculus, Fall 2015
 	**Office Hours:** TBD  
 	**Recitation:** Tue 12:10--1pm Carver 0282.
 
-
-**Credits: 4**
+----------------------
 
 **Course Webpage:** http://github.com/williamdemeo/Math160-Fall2015
 
 **WebAssign:** http://www.webassign.net  
-(For login instructions, see the [Online Homework](#online-homework) section below.)
-
+(For login instructions, see the [Online Homework](#online-homework) section below.)  
 **WebAssign Class Key:** iastate 8774 8288
 
 **Piazza**
 - [Piazza homepage for Math 160](https://piazza.com/iastate/fall2015/math160/home)
 - [Piazza signup page](https://piazza.com/iastate/fall2015/math160)
-  
+
+**Number of Credits: 4**
+
+--------------------------------------
+
 **Remarks about office hours:**
 The regularly scheduled office hours listed above are subject to change.
 Changes will be announced during lecture. It is helpful (but not required) to
@@ -44,6 +47,30 @@ hours this week on (fill in day/time).  Sincerely, (your full name)">send me an 
 in advance to let me know when you plan to visit.
 
 --------------------------------------------------------------------
+
+**Table of Contents**
+- [Introduction](#introduction)
+- [Class Meeting Times](#class-meeting-times)
+- [Overview, Prerequisites, Outcomes](#overview-prerequisites-outcomes)
+- [Textbook Information](#textbook-information)
+- [Exams](#exams)
+- [Quizzes](#quizzes)
+- [Online Homework](#online-homework)
+- [Handwritten Homework](#handwritten-homework)
+- [Make-up Policy](#make-up-policy)
+- [Grading Policy](#grading-policy)
+- [Attendance](#attendance)
+- [3 Ways to Ask Questions](#3-ways-to-ask-questions)
+- [Email Policy](#email-policy)
+- [Use of Electronics During Lecture](#use-of-electronics-during-lecture)
+- [Supplemental Instruction](#supplemental-instruction)
+- [Academic Honesty](#academic-honesty)
+- [Classroom Policy](#classroom-policy)
+- [Students With Disabilities](#students-with-disabilities)
+- [Detailed Course Objectives](#detailed-course-objectives)
+- [Additional Resources](#additional-resources)
+
+---------------------------------
 
 Introduction
 ------------
