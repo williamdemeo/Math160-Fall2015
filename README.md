@@ -183,17 +183,22 @@ Exams
 There will be two midterm exams each worth 20%, and a final exam worth
 25% of the course grade.
 
-+ **MIDTERM EXAM 1** on Chapters 1, 2 and part of 3.  
-**DATE:** TBA  
++ **MIDTERM EXAM 1** (focus on Chapters 1 and 2)  
+**DATE:** Tuesday, September 22.  
 **TIME:** your usual recitation meeting time.  
 **LOCATION:** your usual recitation classroom.
   
-+ **MIDTERM EXAM 2** on Chapters 3, 4, and part of 5.  
-**DATE:** TBA  
++ **MIDTERM EXAM 2** (focus on Chapters 3 and 4)  
+**DATE:** Tuesday, October 20.  
 **TIME:** your usual recitation meeting time.  
 **LOCATION:** your usual recitation classroom.
 
-+ **FINAL EXAM** (cumulative)  
++ **MIDTERM EXAM 3** (focus on Chapters 5 and 6)  
+**DATE:** Tuesday, November 17.  
+**TIME:** your usual recitation meeting time.  
+**LOCATION:** your usual recitation classroom.
+
++ **FINAL EXAM** on Chapters 1--6.  
 **DATE:** Monday, December 14, 2015.  
 **TIME:** 7:30--9:30am.   
 **LOCATION:** Carver 0001.
@@ -207,16 +212,16 @@ the date of the final exam.
 
 Quizzes
 -------
-There will be somewhere between 6 and 8 quizzes administered in the recitations sections.  Your
-best 5 quiz scores will account for 15% of the final course grade.
+There will be approximately 8 quizzes administered in your recitation section.
+Your best 7 quiz scores will account for 14% of the final course grade.
 
 Online Homework
 ---------------
 Solving lots of problems is the best way to prepare yourself to do well on the
 tests and quizzes, and ultimately to do well in the course.
 
-The **online homework will account for 20% of the course grade** and will be
-assigned about once or twice per week.
+The **online homework will account for 16% of the course grade** and will be
+assigned once per week.
 
 All homework for this course will be done with [WebAssign][].
 You will enroll yourself in our course by going to the 
@@ -231,8 +236,8 @@ of the semester, also known as "dead week.")
 
 **Late homework will not be accepted or graded.**  
 
-There will be between 15 and 20 online homework assignments during the semester.
-The two lowest homework scores will not count toward your final course grade.
+There will be roughly 15 online homework assignments during the semester.
+The lowest homework score will not count toward your final course grade.
 
 
 Handwritten Homework
@@ -252,10 +257,28 @@ be very helpful to have printed out hard copies of all the homework assignments.
 
 Make-up Policy
 --------------
-*There will be no make-up homework or exams.*
-If you must miss an exam for a legitimate reason, contact the professor
-at least four days prior to the exam date and you might be allowed
-to take the exam *before* the scheduled exam time. 
+**There are no make-up homework or quizzes for any reason.**  If you must miss
+a quiz or you fail to submit homework on time, this will not necessarily hurt
+your course grade since the lowest quiz and homework scores will be dropped.
+
+Generally speaking, there are no make-up exams. However, 
+if you must miss an exam for one of the legitimate reasons listed below,
+then you must contact the professor at least a week before the exam date
+and if your excuse is approved, you can take a make-up exam *before* the
+scheduled exam time,
+
+\noindent \textbf{Make-up Policies:} 
+A make-up on an exam will be given only for one of the following reasons.
+\begin{itemize}
+\itemsep-0.1em
+	\item A very well documented medical excuse.  A note from a doctor on a prescription pad is sufficient documentation as are hospital discharge papers.
+	\item A family emergency.
+	\item An official university function.
+	\item Military service.
+	\item  A conflict with another exam or if you have three or more final exams on a given day.  In each of these cases the exam with the fewest number of students must yield.
+\end{itemize}
+
+
 
 If you miss a test due to some unforeseen circumstance, you must contact the 
 professor within one class meeting after the missed test and provide an
@@ -270,9 +293,9 @@ Grading Policy
 The breakdown of the final course grade is as follows:  
 
 + Final exam: 25 points  
-+ Mid-term exams: 40 points (20 each)  
-+ Homework: 20 points total  
-+ Quizzes/Recitation Grade: 15 points
++ Mid-term exams: 45 points (15 each)  
++ Homework: 16 points total  
++ Quizzes/Recitation Grade: 14 points
 
 At the end of the semester, letter grades will be assigned roughly according to
 the following table. However, the scale may be shifted,
