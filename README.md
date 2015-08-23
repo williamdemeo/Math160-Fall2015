@@ -26,8 +26,10 @@ Math 160: Survey of Calculus, Fall 2015
 
 **Course Webpage:** http://github.com/williamdemeo/Math160-Fall2015
 
-**WebAssign:** 
+**WebAssign:** http://www.webassign.net
 (For login instructions, see the [Online Homework](#online-homework) section below.)
+
+**WebAssign Class Key:** iastate 8774 8288
 
 **Math 160 Piazza page:** TBA
   
@@ -35,7 +37,7 @@ Math 160: Survey of Calculus, Fall 2015
 The regularly scheduled office hours listed above are subject to change.
 Changes will be announced during lecture. It is helpful (but not required) to
 <a href="mailto:williamdemeo@gmail.com?subject=MATH 160:
-attending office hours&amp;body=Dear Dr. DeMeo, I plan to attend your office
+ office hours&amp;body=Dear Dr. DeMeo, I plan to attend your office
 hours this week on (fill in day/time).  Sincerely, (your full name)">send me an email</a>
 in advance to let me know when you plan to visit.
 
@@ -56,8 +58,8 @@ The paragraphs below serve as the syllabus for Math 160 Sections 4, 6,8.
 
 Please bookmark this page or, better yet,
 <a href="mailto:?subject=MATH 160 webpage&amp;body=The Math 160 webpage is
- http://github.com/williamdemeo/Math160-Fall2014">email the url of this
- page to yourself!</a>
+ http://github.com/williamdemeo/Math160-Fall2014">click here</a> to email the url of this
+ page to yourself!
 
 The ISU Blackboard system will be used only for recording test scores and
 grades. Please Note, the Blackboard system often reports cumulative grade totals
@@ -70,10 +72,10 @@ please keep track of your grades and refer to the
 Class Meeting Times
 -------------------
 **Lecture:** MWF 8--8:50am Carver Room 0001  
-**Recitation:** Tuesdays  
-- Sec 4: 8--8:50am Carver 0074.  
-- Sec 6: 12:10--1pm Carver 0282.  
-- Sec 8: 9--9:50am Beyer 2308.
+**Recitation:**
+- Sec 4: T 8--8:50am Carver 0074.  
+- Sec 6: T 12:10--1pm Carver 0282.  
+- Sec 8: T 9--9:50am Beyer 2308.
 
 Overview, Prerequisites, Outcomes, Accessibility
 ------------------------------------------------
@@ -102,7 +104,7 @@ Department's generic Math 160 page at http://orion.math.iastate.edu/dept/CourseP
 
 Textbook Information
 --------------------
-**Title:** Applied Calculus for the Managerial, Life, and Social Sciences.
+**Title:** Applied Calculus for the Managerial, Life, and Social Sciences.  
 **Author:** Soo Tan  
 **Edition:** Looseleaf custom edition + WebAssign access key  
 **ISBN:** 9781305754454  
@@ -165,7 +167,7 @@ There will be two midterm exams, and one final exam.
 **TIME:** your usual recitation meeting time.  
 **LOCATION:** your usual recitation classroom.
 
-+ **FINAL EXAM** (cumulative)
++ **FINAL EXAM** (cumulative)  
 **DATE:** Monday, December 14, 2015.  
 **TIME:** 7:30--9:30am.   
 **LOCATION:** Carver 0001.
@@ -176,16 +178,6 @@ learned during the semester.
 In accordance with university policy, the final exam is mandatory and must be
 taken by all students at the scheduled time. Do not make travel plans before
 the date of the final exam.
-
-[Math 160 exams from previous semesters](https://orion.math.iastate.edu/dept/calculus/exams/exams.html)
-are available, and it is strongly recommend that you make use of
-them when preparing to take the exams in this class.  The best way to
-prepare for a math test is to practice solving many problems of the kind that
-might appear on the test.
-
-(For your convenience, the old exams for Math 160 are also collected in the
-[tests/old_exams directory](tests/old_exams) of this GitHub repository.)
-
 
 Quizzes
 -------
