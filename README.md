@@ -31,8 +31,9 @@ Math 160: Survey of Calculus, Fall 2015
 
 **WebAssign Class Key:** iastate 8774 8288
 
-**Math 160 Piazza page:** https://piazza.com/iastate/fall2015/math160/home
-
+**Piazza**
+- [Piazza homepage for Math 160](https://piazza.com/iastate/fall2015/math160/home)
+- [Piazza signup page](https://piazza.com/iastate/fall2015/math160)
   
 **Remarks about office hours:**
 The regularly scheduled office hours listed above are subject to change.
@@ -284,26 +285,34 @@ to your classmates to leave, or even pack up your belongings, before the lecture
 is over.
 
 
-Asking Questions
-----------------
+3 Ways to Ask Questions
+-----------------------
+
 When you don't understand something, please ask a question!
-The best time/place to do this is during lecture or recitation or office hours.
 
-Another great way to ask a question is by using our [Piazza page][].
-This term we will be using [Piazza][] for class discussion.
-The system is highly catered to getting you help fast and efficiently from
-classmates, the TA, and the professor. Rather than emailing questions to the
-teaching staff, students are encouraged to post questions on Piazza. If you have
-any problems or feedback for the Piazza developers, email [team@piazza.com](mailto:team@piazza.com). 
+1. **Lecture** The best time/place to ask a question is during lecture or recitation or office hours.
 
-Find our class Piazza page at: https://piazza.com/iastate/fall2015/math160/home
+2. **Piazza** Another good place to ask a question is online discussion forum.
+   This term we will be using [Piazza][] for class discussion and all students
+   should enroll in this forum by visiting the [Piazza signup page][].
 
-Another way to ask a question is by using the "Ask my instructor" link on
-WebAssign. This method is convenient for the teaching staff because details
-about the problem you're asking about are automatically embedded 
-in your email.  *Please note:* if you use the "Ask my instructor" button, your
-question may be reposted on our [Piazza][] forum (which is public).  If you're
-uncomfortable with this, please say so in your message.
+   This system is highly catered to getting you help fast and efficiently from
+   classmates, the TA, and the professor. Rather than emailing questions to the
+   teaching staff, students are encouraged to post questions on Piazza forum.
+   If you have any problems or feedback for the developers, email
+   [team@piazza.com](mailto:team@piazza.com). 
+
+   Our class Piazza page is at: https://piazza.com/iastate/fall2015/math160/home
+
+3. **WebAssign** Another way to ask a question is by using the "Ask my instructor" link on
+   WebAssign. This method is convenient for the teaching staff because details
+   about the problem you're asking about are automatically embedded 
+   in your email.
+
+   *Please note:* if you use the "Ask my instructor" button, your
+   question may be reposted on our [Piazza][] forum (which is public).  If you're
+   uncomfortable with this, please say so in your message.
+
 
 Email Policy
 ------------
@@ -432,6 +441,7 @@ Additional Resources
 
 [Piazza]: https://piazza.com/iastate/fall2015/math160/home
 [Piazza page]: https://piazza.com/iastate/fall2015/math160/home
+[Piazza signup page]: https://piazza.com/iastate/fall2015/math160
 [MyLabsPlus]: http://www.iastate.mylabsplus.com
 [MyLabsPlus website]: http://www.iastate.mylabsplus.com
 [WebAssign]: http://www.webassign.net
