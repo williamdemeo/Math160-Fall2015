@@ -75,10 +75,10 @@ in advance to let me know when you plan to visit.
 Introduction
 ------------
 You are now reading the main course web page.
-The paragraphs below serve as the syllabus for Math 160 Sections 4, 6,8.
+The paragraphs below serve as the syllabus for Math 160 Sections 4, 6, 8.
 
 *This page, as well as the content directory above, and its subdirectories, will
- be updated throughout the semester, and students are expected to visit this
+ be updated throughout the semester. Students are expected to visit this
  page periodically.* 
 
 Please bookmark this page or, better yet,
