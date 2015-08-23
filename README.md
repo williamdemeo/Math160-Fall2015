@@ -82,12 +82,13 @@ Overview, Prerequisites, Outcomes
 **Overview**  
 We will cover Chapters 1 through 6 of [the textbook](#textbook),
 which includes the following topics:
-1. Preliminaries
-2. Functions, Limits, and the Derivative (~9 days)
-3. Differentiation (~15 days)
-4. Applications of the Derivative (~10 days)
-5. Exponential and Logarithmic Functions (~6 days)
-6. Integration (~11 days)
+
+1. Preliminaries  
+2. Functions, Limits, and the Derivative (~9 days)  
+3. Differentiation (~15 days)  
+4. Applications of the Derivative (~10 days)  
+5. Exponential and Logarithmic Functions (~6 days)  
+6. Integration (~11 days)  
 
 **Prerequisites**  
 Satisfactory performance on placement exam, 2 years of high school algebra, 1
