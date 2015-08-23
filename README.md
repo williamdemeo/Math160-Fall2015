@@ -210,9 +210,12 @@ Quizzes
 -------
 There will be approximately 11 short quizzes administered
 roughly once per week during recitation.
-The lowest quiz score will be dropped and
-the remaining quizzes will account for 15% of
-the final course grade. 
+
+**NO MAKE-UP QUIZZES.**  
+*Under no circumstances will there be any make-up quizzes.*
+To accommodate circumstances that might cause a student to miss a quiz,
+the lowest quiz score will be dropped at the end of the semester.
+The remaining quizzes will account for 15% of the final course grade.
 
 Online Homework
 ---------------
@@ -267,16 +270,16 @@ then you might be able to take a make-up exam *before* the scheduled exam time.
 To request a make-up exam, a student must provide documented evidence of
 one of the following:
 
-+ Medical excuse - student's own medical emergency (doctor's note required).
-+ Medical excuse - a member of the student's family has a medical emergency (doctor's note required).
-+ Extra curricular activities as a representative of Iowa State University (e.g., sponsored sports, band, etc.).
++ Medical excuse - student's own medical emergency.
++ Medical excuse - a member of the student's family has a medical emergency.
++ Extra curricular activities as a representative of Iowa State University.
 + Armed forces deployment (military duty).
 + Officially mandated court appearances, including jury duty.
 + A conflict with another exam or if you have three or more final exams on a
-given day.  (In each of these cases the exam with the fewest number of students
-must make alternative accommodations.)
+given day.  (In each case the exam with the fewest students
+must arrange the make-up exam.)
 
-If you miss a test due to some unforeseen circumstance, you must contact the 
+If you miss an exam due to some unforeseen circumstance, you must contact the 
 professor within one class meeting after the missed test and provide an
 explanation. If your excuse is accepted, the missed test score may be replaced 
 with 80% of your final exam score. For example, if your excuse is accepted and
