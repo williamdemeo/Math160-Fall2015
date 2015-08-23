@@ -16,9 +16,9 @@ Math 160: Survey of Calculus, Fall 2015
 **Office:** TBD  
 **Office Hours:** TBD  
 **Recitations:**  
-+ *Sec 4* T 8--8:50am Carver 0074.  
-+ *Sec 6* T 12:10--1pm Carver 0282.  
-+ *Sec 8* T 9--9:50am Beyer 2308.
++ *Section 4:* T 8--8:50am Carver 0074.  
++ *Section 6:* T 12:10--1pm Carver 0282.  
++ *Section 8:* T 9--9:50am Beyer 2308.
 
 ----------------------
 
@@ -106,10 +106,10 @@ Overview, Prerequisites, Outcomes
 We will cover Chapters 1 through 6 of [the textbook](#textbook),
 which includes the following topics:
 
-1. Preliminaries  
-2. Functions, Limits, and the Derivative (~9 days)  
-3. Differentiation (~15 days)  
-4. Applications of the Derivative (~10 days)  
+1. Preliminaries (~3 lectures)  
+2. Functions, Limits, and the Derivative (~9 lectures)  
+3. Differentiation (~8 lectures)  
+4. Applications of the Derivative (~5 days)  
 5. Exponential and Logarithmic Functions (~6 days)  
 6. Integration (~11 days)  
 
