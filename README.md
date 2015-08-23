@@ -26,7 +26,7 @@ Math 160: Survey of Calculus, Fall 2015
 
 **Course Webpage:** http://github.com/williamdemeo/Math160-Fall2015
 
-**WebAssign:** http://www.webassign.net
+**WebAssign:** http://www.webassign.net  
 (For login instructions, see the [Online Homework](#online-homework) section below.)
 
 **WebAssign Class Key:** iastate 8774 8288
@@ -45,11 +45,7 @@ in advance to let me know when you plan to visit.
 
 Introduction
 ------------
-You are now reading the main course web page (which is simply a README.md
-file in a GitHub repository called Math160-Fall2015).  If you don't know what
-the stuff in parentheses means, don't worry. It will be explained at our first
-class meeting. 
-
+You are now reading the main course web page.
 The paragraphs below serve as the syllabus for Math 160 Sections 4, 6,8.
 
 *This page, as well as the content directory above, and its subdirectories, will
@@ -71,14 +67,15 @@ please keep track of your grades and refer to the
 
 Class Meeting Times
 -------------------
-**Lecture:** MWF 8--8:50am Carver Room 0001  
+**Lecture:** MWF 8--8:50am Carver 0001.
+
 **Recitation:**
 - Sec 4: T 8--8:50am Carver 0074.  
 - Sec 6: T 12:10--1pm Carver 0282.  
 - Sec 8: T 9--9:50am Beyer 2308.
 
-Overview, Prerequisites, Outcomes, Accessibility
-------------------------------------------------
+Overview, Prerequisites, Outcomes
+---------------------------------
 
 **Overview**  
 We will cover Chapters 1 through 6 of [the textbook](#textbook),
@@ -143,7 +140,7 @@ counter this challenge by both producing new editions and raising prices at
 staggering rates.
 
 The edition that is stocked in the university bookstore is the official textbook
-for this course.  Unfortunately, it is very expensive.  However, students are
+for this course and, unfortunately, it is very expensive.  However, students are
 free to use older editions of the book that may be found at online retailers
 like Amazon. For example,
 [the 9th edition](http://www.amazon.com/gp/product/1133607713/)
