@@ -176,7 +176,7 @@ university bookstore.
 
 Exams
 -----
-There will be two midterm exams each worth 20%, and a final exam worth
+There will be three midterm exams each worth 15%, and a final exam worth
 25% of the course grade.
 
 + **MIDTERM EXAM 1** (focus on Chapters 1 and 2)  
