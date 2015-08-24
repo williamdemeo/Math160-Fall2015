@@ -13,8 +13,8 @@ Math 160: Survey of Calculus, Fall 2015
 **Teaching Assistant:** Mercedes Coleman  
 **Email:** [coleman1 at iastate](mailto:coleman1@iastate.edu?subject=MATH
 160: (insert an informative subject))  
-**Office:** TBD  
-**Office Hours:** TBD  
+**Office:** Carver 419  
+**Office Hours:** M 10--11:50am, TW 11--11:50am.  
 **Recitations:**  
 + *Section 4:* T 8--8:50am Carver 0074.  
 + *Section 6:* T 12:10--1pm Carver 0282.  
