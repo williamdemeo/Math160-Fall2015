@@ -130,53 +130,38 @@ Textbook Information
 **Title:** Applied Calculus for the Managerial, Life, and Social Sciences.  
 **Author:** Soo Tan  
 **Edition:** Looseleaf custom edition + WebAssign access key  
-**ISBN:** 9781305754454  
+**ISBN:** 9781305744295  
 
-This "discounted" package includes the looseleaf textbook bundled with the
-WebAssign access code. The code includes access to the online learning tools and
-an electronic version of the book.
+The bookstore will sell a discounted package that includes the looseleaf
+textbook bundled with a WebAssign access code. The code includes access to the
+online learning tools and an electronic version of the book.
 
 **Important Note:** You are required to have a
 [WebAssign][] access code so that you can complete the online homework for this
 course. It is also highly recommended that you have a hard copy of the
-textbook.  Therefore, you are encouraged to buy the bundled version of the (custom
-edition of the) book from the bookstore, which comes with both a hard copy of
+textbook.  Therefore, you are encouraged to buy the bundled version of the
+book from the bookstore, which comes with both a hard copy of
 the book and a WebAssign access code.
 
-Having said that, the cost of the bundled version of the book and access code is
-excessive ($268), and it is possible to buy the access code for WebAssign
-separately from the textbook, either directly through the [WebAssign website][]
-or from the university bookstore for around $82.
-In fact, access to WebAssign comes with a (somewhat restricted) electronic
-version of the textbook, so it is not absolutely necessary to have a hard copy.
+Having said that, the version of the textbook you have is not important.
+What matters most is that you have access to WebAssign.
 
-Of course, it is helpful to have a hard copy of the book, or at least an
-electronic version that you can view on a tablet when studying in the library.
-If you limit yourself to the electronic access provided through WebAssign, you
-may find it inconvenient, especially when the network is slow, and as a result
-you may end up studying the textbook material less often than you would if you
-had purchased a hard copy.
+For your reference, the edition of the textbook that your instructor will be
+following (since it was provided by the Math Department) is the 9th edition of
+"Applied Calculus for the Managerial, Life, and Social Sciences: *A Brief Approach*."
 
-**Which hard copy of the book should you buy?**
+For your reference, here are links to the WebAssign and Amazon pages for the
+edition of the textbook that your instructor will use: 
 
-The goal of textbook publishers is naturally to sell as many new books as
-possible. This goal is more difficult than it used to be because students have
-unprecedented access to a massive online used textbook market. Many publishers
-counter this challenge by both producing new editions and raising prices at
-staggering rates.
++ [WebAssign Link: http://www.webassign.net/textbooks/TanApCalcBr9/details.html](http://www.webassign.net/textbooks/TanApCalcBr9/details.html)
 
-The edition that is stocked in the university bookstore is the official textbook
-for this course and, unfortunately, it is very expensive.  However, students are
-free to use older editions of the book that may be found at online retailers
-like Amazon. For example,
-[the 9th edition](http://www.amazon.com/gp/product/1133607713/)
-is probably very similar in content to the edition that is stocked by the
-university bookstore.
++ [Amazon Link: http://www.amazon.com/Applied-Calculus-Managerial-Social-Sciences/dp/0538498900/](http://www.amazon.com/Applied-Calculus-Managerial-Social-Sciences/dp/0538498900/)
+
 
 
 Exams
 -----
-There will be two midterm exams each worth 20%, and a final exam worth
+There will be three midterm exams each worth 15%, and a final exam worth
 25% of the course grade.
 
 + **MIDTERM EXAM 1** (focus on Chapters 1 and 2)  
@@ -208,12 +193,12 @@ the date of the final exam.
 
 Quizzes
 -------
-There will be approximately 11 short quizzes administered
+There will be approximately 11 short quizzes, administered
 roughly once per week during recitation.
 
 **NO MAKE-UP QUIZZES.**  
 *Under no circumstances will there be any make-up quizzes.*
-To accommodate circumstances that might cause a student to miss a quiz,
+To accommodate circumstances that cause a student to miss a quiz,
 the lowest quiz score will be dropped at the end of the semester.
 The remaining quizzes will account for 15% of the final course grade.
 
@@ -238,7 +223,7 @@ of the semester, also known as "dead week.")
 
 **Late homework will not be accepted or graded.**  
 
-The lowest homework score will be dropped not counted toward the final course grade.
+The lowest homework score will be dropped and not counted toward the final course grade.
 
 
 Handwritten Homework
