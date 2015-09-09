@@ -5,7 +5,7 @@ Math 160: Survey of Calculus, Fall 2015
 **Email:** [williamdemeo at gmail](mailto:williamdemeo@gmail.com?subject=MATH
 160: (insert an informative subject))  
 **Office:** Carver 466.  
-**Office hours:** W 9--11am, F 9--10am.  
+**Office hours:** W 9--10:50am, F 9--9:50am.  
 **Lecture time and location:** MWF 8--8:50am, Carver 0001.
 
 --------------------
@@ -14,7 +14,7 @@ Math 160: Survey of Calculus, Fall 2015
 **Email:** [coleman1 at iastate](mailto:coleman1@iastate.edu?subject=MATH
 160: (insert an informative subject))  
 **Office:** Carver 419  
-**Office Hours:** M 10--11:50am, TW 11--11:50am.  
+**Office Hours:** MTWF 11--11:50am.
 **Recitations:**  
 + *Section 4:* T 8--8:50am Carver 0074.  
 + *Section 6:* T 12:10--1pm Carver 0282.  
