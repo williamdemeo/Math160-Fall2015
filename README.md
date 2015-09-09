@@ -14,7 +14,7 @@ Math 160: Survey of Calculus, Fall 2015
 **Email:** [coleman1 at iastate](mailto:coleman1@iastate.edu?subject=MATH
 160: (insert an informative subject))  
 **Office:** Carver 419  
-**Office Hours:** MTWF 11--11:50am.
+**Office Hours:** MTWF 11--11:50am.  
 **Recitations:**  
 + *Section 4:* T 8--8:50am Carver 0074.  
 + *Section 6:* T 12:10--1pm Carver 0282.  
