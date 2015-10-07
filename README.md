@@ -22,7 +22,7 @@ Math 160: Survey of Calculus, Fall 2015
 
 ----------------------
 
-**Supplemental Instruction Leader:** Ben Laswell
+**Supplemental Instruction Leader:** Ben Laswell  
 **Email:** [blaswell at iastate](mailto:blaswell@iastate.edu?subject=MATH
 160: (insert an informative subject))  
 **SI Sessions:**  
